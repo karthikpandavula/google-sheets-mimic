@@ -7,7 +7,7 @@ This project is a **web-based spreadsheet application** designed to closely mimi
 The goal of this project is to provide an intuitive spreadsheet experience with dynamic calculations, clean data handling, and basic functionalities typically found in tools like Google Sheets.
 
 ---
-Check out the live demo of this project [here](https://karthikpandavula.github.io/google-sheets-mimic/).
+## Check out the live demo of this project [here](https://karthikpandavula.github.io/google-sheets-mimic/).
 ## Features Implemented
 
 ### 1. Spreadsheet Interface:
