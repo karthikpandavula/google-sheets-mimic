@@ -1,5 +1,4 @@
 # Web Application Mimicking Google Sheets
-## Demo Link
 
 ## Overview
 This project is a **web-based spreadsheet application** designed to closely mimic the user interface and core functionalities of **Google Sheets**. It provides users with a familiar interface to perform various **mathematical functions**, **data quality functions**, and interactive data management tasks such as **cell dependencies**, **data entry validation**, and **basic formatting**. The app supports **drag functions** for content and formulas, as well as offering the ability to add, delete, and resize rows and columns. 
